@@ -1,6 +1,3 @@
-Here’s a **GitHub README.md description** for your *Urban Vogue* e-commerce project, based on your document:
-
----
 
 # Urban Vogue – E-Commerce Clothing Platform
 
